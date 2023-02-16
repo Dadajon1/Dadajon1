@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dadajon1
+- 👋 Hi, I’m @Dadajon
 - 👀 I’m interested in Ai BI DS
 - 🌱 I’m currently learning Business Analytics
 - 💞️ I’m looking to collaborate on ...

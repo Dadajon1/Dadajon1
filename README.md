@@ -1,13 +1,13 @@
 
-<h1 align="center">Hello, I'm Bekhruz Nutfilloev 👋</h1>
+<h1 align="center">Hello, I'm Dadajon Yandashov 👋</h1>
 
-- 🔭 I’m currently working on Artificial intelegence, Machine Learning and Deep Learning
-- 🌱 I’m currently learning NLP, Data science, SQL, kubernetes and Quantum basic
-- 👯 I’m looking to collaborate on Deep Learning Algorithm
-- 💬 Ask me about Python, C/C++, Python, Docker and Math
-- 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-white?style=flat-square&logo=Linkedin&logoColor=blue&link=https://github.com/yoshlikmedia)](https://www.linkedin.com/in/bekhruz-nutfilloyev/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/bnutfilloyev)](https://t.me/yoshlik_media)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoshlikmedia@gmail.com)](mailto:yoshlikmedia@gmail.com)
+- 🔭 I’m currently working on Python, Django and telegram bots
+- 🌱 I’m currently learning AI, BI, DS 
+- 👯 I’m looking to collaborate 
+- 💬 Ask me about Python,Python, Docker and Math
+- 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-white?style=flat-square&logo=Linkedin&logoColor=blue&link=https://github.com/yoshlikmedia)](https://www.linkedin.com/in/yandashov-dadajon/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/betough1)](https://t.me/betough1)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoshlikmedia@gmail.com)](mailto:19dadajon96@gmail.com)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bnutfilloyev&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
